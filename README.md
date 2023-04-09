@@ -13,7 +13,3 @@ pip install -r requirements.txt
 ```python
 python bot.py
 ```
-
-### Screenshot/GIF showing the sample use of the script
-
-The Run command script above is the best screenshot. 
